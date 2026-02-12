@@ -118,4 +118,4 @@ This project is open-source and available under the MIT License.
 ---
 
 ## Author
-This project is maintained by [caddixD](https://github.com/caddixD). Feel free to reach out with any questions or feedback.
+This project is maintained by [caddixD](https://github.com/t4d4s). Feel free to reach out with any questions or feedback.
